@@ -56,13 +56,13 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. -->
               v-if="authorized"
               v-on:click="logout()"
               v-bind:href="logOutUrl"
-              >Log Out</a
+              >Log Outxxxxx</a
             >
             <a class="navbar-item" v-if="!authorized" v-bind:href="signUpUrl"
-              >Sign up</a
+              >Sign upxxxxx</a
             >
             <a class="navbar-item" v-if="!authorized" v-bind:href="logInUrl"
-              >Log in</a
+              >Log inxxxxx</a
             >
           </div>
         </div>
