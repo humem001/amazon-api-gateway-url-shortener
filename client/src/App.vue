@@ -62,7 +62,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. -->
               >Sign up</a
             >
             <a class="navbar-item" v-if="!authorized" v-bind:href="logInUrl"
-              >Log in</a
+              >Log in NOW</a
             >
           </div>
         </div>
