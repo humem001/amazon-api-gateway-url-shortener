@@ -131,7 +131,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. -->
             v-on:click="createLink()"
             class="button is-success"
           >
-            Create
+            CreateX
           </button>
           <button v-else v-on:click="updateLink()" class="button is-success">
             Update
