@@ -81,7 +81,6 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. -->
             <a v-bind:href="signUpUrl">Sign up</a> or
             <a v-bind:href="logInUrl">Log in</a> to register it?
           </p>
-          <p><b>xxxxxxxxxxx</b></p>
         </div>
       </div>
     </section>
